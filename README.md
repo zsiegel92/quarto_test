@@ -17,6 +17,6 @@ Fill me in please! Don’t forget code examples:
 
 ``` python
 1+1
+x = 5 # zs, testing
+print(x) # zs, testing
 ```
-
-    2

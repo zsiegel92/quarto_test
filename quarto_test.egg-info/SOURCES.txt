@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+settings.ini
+setup.py
+quarto_test/__init__.py
+quarto_test/_modidx.py
+quarto_test/core.py
+quarto_test.egg-info/PKG-INFO
+quarto_test.egg-info/SOURCES.txt
+quarto_test.egg-info/dependency_links.txt
+quarto_test.egg-info/entry_points.txt
+quarto_test.egg-info/not-zip-safe
+quarto_test.egg-info/requires.txt
+quarto_test.egg-info/top_level.txt

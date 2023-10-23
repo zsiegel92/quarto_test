@@ -1,0 +1,2 @@
+[nbdev]
+quarto_test = quarto_test._modidx:d
