@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "quarto_test"
+  site-url: "https://zsiegel92.github.io/quarto_test"
+  description: "Testing Quarto"
+  repo-branch: main
+  repo-url: "https://github.com/zsiegel92/quarto_test"
